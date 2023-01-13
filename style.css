@@ -1,5 +1,5 @@
 body{
-    font-family:"Oswald";
+    font-family:"Roboto Light", sans-serif;
    /* background-color: rgb(164, 159, 67);*/
     background-image: url(img/2.jpeg);
     font-size:20px;
@@ -8,6 +8,7 @@ body{
 header{
     background-color: rgba(132, 127, 24, 0.314);
     color:white;
+    padding: 1%;
 }
 .menu {
     display: flex;
